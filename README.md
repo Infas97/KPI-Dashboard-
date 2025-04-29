@@ -27,8 +27,8 @@ These metrics are critical for understanding how well embroidery and sample room
 <img width="937" alt="Main Page" src="https://github.com/Infas97/KPI-Dashboard-/blob/main/KPI%20S.png">
 
 # Features
-![Primary KPI Dashboard](https://github.com/Infas97/KPI-Dashboard-/blob/main/KPI%20ss.mp4)
-![Primary KPI Dashboard](https://github.com/Infas97/KPI-Dashboard-/blob/main/Kpi%20ssss.mp4)
+![Primary KPI Dashboard](https://github.com/Infas97/KPI-Dashboard-/blob/main/KPI%20ss.gif)
+![Primary KPI Dashboard](https://github.com/Infas97/KPI-Dashboard-/blob/main/Kpi%20ssss.gif)
 
 
 # Detailed Analysis: 
