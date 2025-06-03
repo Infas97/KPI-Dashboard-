@@ -1,4 +1,5 @@
 # KPI-Dashboard
+The dashboard aims to empower stakeholders with actionable insights into performance trends and operational efficiency, ensuring data-driven decision-making across the organization.
 # Overview
 This repository contains a comprehensive KPI Dashboard designed to evaluate and visualize performance metrics in manufacturing operations. The dashboard is split into Primary KPIs and Secondary KPIs, offering insights into factory and supplier performance, as well as sample room operations.
 
